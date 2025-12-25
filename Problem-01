@@ -1,0 +1,11 @@
+CREATE VIEW VehiculeMasterDetails AS
+SELECT dbo.VehiculeDetails.id, dbo.VehiculeDetails.modelID, dbo.MakeModels.ModelName, dbo.VehiculeDetails.subModelID, dbo.SubModels.SubModelName, dbo.VehiculeDetails.bodyID, dbo.Bodies.BodyName, dbo.VehiculeDetails.Vehicule_Display_Name, dbo.VehiculeDetails.DriveTypeID, 
+             dbo.DriveTypes.DriveTypeName, dbo.VehiculeDetails.Engine, dbo.VehiculeDetails.Engine_CC, dbo.VehiculeDetails.Engine_Cylinders, dbo.VehiculeDetails.Engine_liter_Display, dbo.VehiculeDetails.FuelTypeID, dbo.FuelTypes.FuelTypeName, dbo.VehiculeDetails.makeID, 
+             dbo.Makes.MakeName, dbo.VehiculeDetails.NumDoors, dbo.VehiculeDetails.year
+FROM   dbo.FuelTypes INNER JOIN
+             dbo.Bodies INNER JOIN
+             dbo.Makes INNER JOIN
+             dbo.MakeModels ON dbo.Makes.MakeID = dbo.MakeModels.MakeID INNER JOIN
+             dbo.SubModels ON dbo.MakeModels.ModelID = dbo.SubModels.ModelID INNER JOIN
+             dbo.VehiculeDetails ON dbo.Makes.MakeID = dbo.VehiculeDetails.makeID AND dbo.MakeModels.ModelID = dbo.VehiculeDetails.modelID AND dbo.SubModels.SubModelID = dbo.VehiculeDetails.subModelID ON dbo.Bodies.BodyID = dbo.VehiculeDetails.bodyID INNER JOIN
+             dbo.DriveTypes ON dbo.VehiculeDetails.DriveTypeID = dbo.DriveTypes.DriveTypeID ON dbo.FuelTypes.FuelTypeID = dbo.VehiculeDetails.FuelTypeID
