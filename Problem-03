@@ -1,0 +1,1 @@
+select count(*) as VehiclesNumber from vehiculeDetails where year >= 2000 and year <= 2020;
