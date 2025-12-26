@@ -7,3 +7,8 @@ The purpose of this task is to create a database view that centralizes vehicle d
 ## Problem 02 : Filter Vehicles (2000–2020)
 
 This task retrieves all vehicles manufactured between 2000 and 2020 by filtering the data based on the Year column.
+
+
+## Problem 02 : Count Vehicles (2000–2020)
+
+This task count all vehicles manufactured between 2000 and 2020 by filtering the data based on the Year column.
