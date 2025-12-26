@@ -12,3 +12,8 @@ This task retrieves all vehicles manufactured between 2000 and 2020 by filtering
 ## Problem 03 : Count Vehicles (2000–2020)
 
 This task count all vehicles manufactured between 2000 and 2020 by filtering the data based on the Year column.
+
+
+## Problem 04 : Count Vehicles by Make (2000–2020)
+
+This task calculates the number of vehicles manufactured between 2000 and 2020 for each make and orders the results by the total number of vehicles in descending order.
