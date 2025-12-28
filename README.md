@@ -36,5 +36,10 @@ The task is to compute the number of vehicles produced by each make between 2000
 
 The task is to retrieve the number of vehicles manufactured between 2000 and 2020, grouped by make and fuel type, and display the results ordered by make name.
 
+## Problem 09 :  Retrieve Gasoline Vehicles
+
+Select all vehicle details for vehicles that use gasoline as their fuel type.
+
+
 
 
