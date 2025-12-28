@@ -32,3 +32,9 @@ The task is to determine the number of vehicles produced by each make between 20
 
 The task is to compute the number of vehicles produced by each make between 2000 and 2020, calculate each make’s share as a percentage of the total vehicles in that period, and display the results ordered by the number of vehicles.
 
+## Problem 08 : List Vehicles by Make and Fuel Type (2000–2020)
+
+The task is to retrieve the number of vehicles manufactured between 2000 and 2020, grouped by make and fuel type, and display the results ordered by make name.
+
+
+
