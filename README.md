@@ -28,4 +28,7 @@ The task is to retrieve the number of vehicles produced for each make between 20
 
 The task is to determine the number of vehicles produced by each make between 2000 and 2020, including only those makes with 2,700 vehicles or more, and to sort the results in descending order by the total number of vehicles.
 
+## Problem 07 : Calculate Vehicle Percentage by Make
+
+The task is to compute the number of vehicles produced by each make between 2000 and 2020, calculate each make’s share as a percentage of the total vehicles in that period, and display the results ordered by the number of vehicles.
 
