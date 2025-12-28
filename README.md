@@ -6,14 +6,22 @@ The purpose of this task is to create a database view that centralizes vehicle d
 
 ## Problem 02 : Filter Vehicles (2000–2020)
 
-This task retrieves all vehicles manufactured between 2000 and 2020 by filtering the data based on the Year column.
+The task is to retrieve all vehicles manufactured between 2000 and 2020 by filtering the data based on the Year column.
 
 
 ## Problem 03 : Count Vehicles (2000–2020)
 
-This task count all vehicles manufactured between 2000 and 2020 by filtering the data based on the Year column.
+The task is to count all vehicles manufactured between 2000 and 2020 by filtering the data based on the Year column.
 
 
 ## Problem 04 : Count Vehicles by Make (2000–2020)
 
-This task calculates the number of vehicles manufactured between 2000 and 2020 for each make and orders the results by the total number of vehicles in descending order.
+The task is to calculate the number of vehicles manufactured between 2000 and 2020 for each make and orders the results by the total number of vehicles in descending order.
+
+
+## Problem 05 : List Vehicle Counts per Make with Total
+
+The task is to retrieve the number of vehicles produced for each make between 2000 and 2020, and display the overall vehicle count for the same period alongside each result, ordered by vehicle count.
+
+
+
