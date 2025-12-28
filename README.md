@@ -24,4 +24,8 @@ The task is to calculate the number of vehicles manufactured between 2000 and 20
 The task is to retrieve the number of vehicles produced for each make between 2000 and 2020, and display the overall vehicle count for the same period alongside each result, ordered by vehicle count.
 
 
+## Problem 06 : Filter and Rank Makes by Vehicle Production (2000–2020)
+
+The task is to determine the number of vehicles produced by each make between 2000 and 2020, including only those makes with 2,700 vehicles or more, and to sort the results in descending order by the total number of vehicles.
+
 
