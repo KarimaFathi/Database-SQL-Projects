@@ -1,0 +1,6 @@
+
+SELECT distinct  Makes.MakeName,FuelTypes.FuelTypeName, count(*) as VehiclesNumber
+FROM   Makes INNER JOIN
+             VehiculeDetails ON Makes.MakeID = VehiculeDetails.makeID INNER JOIN
+             FuelTypes ON VehiculeDetails.FuelTypeID = FuelTypes.FuelTypeID 
+			 where year >= 2000 and year <= 2020 group by FuelTypeName, MakeName order by MakeName;
