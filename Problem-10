@@ -1,0 +1,5 @@
+SELECT distinct Makes.MakeName, FuelTypes.FuelTypeName
+FROM   Makes INNER JOIN
+             VehiculeDetails ON Makes.MakeID = VehiculeDetails.makeID INNER JOIN
+             FuelTypes ON VehiculeDetails.FuelTypeID = FuelTypes.FuelTypeID where FuelTypeName = N'Gasoline' order by MakeName asc;
+
