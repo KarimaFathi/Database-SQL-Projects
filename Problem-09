@@ -1,0 +1,4 @@
+SELECT  VehiculeDetails.*, FuelTypes.FuelTypeName
+FROM   FuelTypes INNER JOIN
+             VehiculeDetails ON FuelTypes.FuelTypeID = VehiculeDetails.FuelTypeID WHERE FuelTypeName = 'Gasoline';
+
