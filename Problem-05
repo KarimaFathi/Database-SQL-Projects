@@ -1,0 +1,5 @@
+SELECT Makes.MakeName, count(*) as VehiclesNumber, (select count(*)  from VehiculeDetails WHERE year between 2000 and 2020) as TotalVehicles
+FROM   Makes INNER JOIN
+             VehiculeDetails ON Makes.MakeID = VehiculeDetails.makeID
+WHERE year between 2000 and 2020 group by MakeName order by VehiclesNumber;
+
