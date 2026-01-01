@@ -59,4 +59,7 @@ The task is to calculate the total number of distinct vehicle makes that run on 
 The task is to display the number of vehicles for each make, ordered from highest to lowest count.
 
 
+## Problem 13 : High-Volume Vehicle Makes
+
+The task is to list vehicle makes with at least 3,350 vehicles, ordered by total count in descending order.
 
