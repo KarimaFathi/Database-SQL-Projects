@@ -1,0 +1,3 @@
+SELECT Makes.MakeName, Count(*) as NumberOfVehicles
+FROM   Makes INNER JOIN
+             VehiculeDetails ON Makes.MakeID = VehiculeDetails.makeID group by MakeName order by NumberOfVehicles desc;
