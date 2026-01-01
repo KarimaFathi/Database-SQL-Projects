@@ -1,0 +1,2 @@
+SELECT distinct Makes.MakeName
+FROM   Makes where MakeName like 'F%';
