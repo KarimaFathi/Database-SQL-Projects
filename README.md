@@ -54,5 +54,9 @@ The task is to retrieve distinct vehicle makes that use gasoline, ordered alphab
 The task is to calculate the total number of distinct vehicle makes that run on gasoline.
 
 
+## Problem 12 : Vehicle Count by Make
+
+The task is to display the number of vehicles for each make, ordered from highest to lowest count.
+
 
 
