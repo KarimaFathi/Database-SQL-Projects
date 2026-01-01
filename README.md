@@ -49,5 +49,10 @@ The task is to select all vehicle details for vehicles that use gasoline as thei
 The task is to retrieve distinct vehicle makes that use gasoline, ordered alphabetically by make name.
 
 
+## Problem 11 : Count Gasoline Vehicle Makes
+
+The task is to calculate the total number of distinct vehicle makes that run on gasoline.
+
+
 
 
