@@ -130,6 +130,13 @@ The task is to display all vehicles with a “Coupe” body type manufactured af
 
 ## Problem 27 : Retrieve Vehicles by Selected Body Types
 
-Display all vehicles that have a body type of Coupe, Hatchback, or Sedan, including their body names.
+The task is to display all vehicles that have a body type of Coupe, Hatchback, or Sedan, including their body names.
+
+
+## Problem 28 : Retrieve Vehicles by Selected Body Type and Year
+
+The task is to display all vehicles with a Coupe, Hatchback, or Sedan body type manufactured in the years 2008, 2012, or 2022.
+
+
 
 
