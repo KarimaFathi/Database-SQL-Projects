@@ -107,3 +107,7 @@ The task is to calculate all vehicles whose number of doors is not specified.
 ## Problem 22 : Calculate Percentage of Two-Door Vehicles
 
 The task is to calculate the percentage of vehicles that have two doors out of the total number of vehicles.
+
+## Problem 23 : Retrieve Makes with Sport Submodels
+
+The task is to Retrieve distinct vehicle makes and their IDs that have a submodel named “Sport”.
