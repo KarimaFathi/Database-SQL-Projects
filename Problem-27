@@ -1,0 +1,3 @@
+SELECT VehiculeDetails.*, Bodies.BodyName
+FROM   Bodies INNER JOIN
+             VehiculeDetails ON Bodies.BodyID = VehiculeDetails.bodyID where BodyName in ('Coupe', 'Hatchback', 'Sedan');
