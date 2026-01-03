@@ -191,3 +191,8 @@ The task is to retrieve all unique engine capacities from the vehicle database, 
 ## Problem 39 : Retrieve Top 3 Largest Engine Capacities
 
 The task is to display the three highest unique engine capacities from the vehicle database.
+
+
+## Problem 40 : Retrieve Vehicles with Top 3 Largest Engines
+
+The task is to display all vehicles that have one of the three highest engine capacities in the database.
