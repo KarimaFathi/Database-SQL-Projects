@@ -94,12 +94,14 @@ The task is to calculate the total number of vehicles for each make and drive ty
 The task is to display vehicle makes and drive types with more than 800 vehicles, ordered alphabetically by make and by total count in descending order.
 
 
-## Problem 20 : Filter Vehicles Exceeding a Specific Count
-
-The task is to display vehicle makes and drive types with more than 800 vehicles, ordered alphabetically by make and by total count in descending order.
-
-
-## Problem 21 : Retrieve Vehicles with Missing Door Information
+## Problem 20 : Retrieve Vehicles with Missing Door Information
 
 The task is to display all vehicles whose number of doors is not specified.
+
+
+## Problem 21 : Count  Vehicles with Missing Door Information
+
+The task is to calculate all vehicles whose number of doors is not specified.
+
+
 
