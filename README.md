@@ -185,4 +185,9 @@ The task is display all vehicles with engine capacity bigger than the average ac
 
 ## Problem 38 : List Distinct Engine Capacities
 
-Retrieve all unique engine capacities from the vehicle database, ordered from highest to lowest.
+The task is to retrieve all unique engine capacities from the vehicle database, ordered from highest to lowest.
+
+
+## Problem 39 : Retrieve Top 3 Largest Engine Capacities
+
+The task is to display the three highest unique engine capacities from the vehicle database.
