@@ -171,3 +171,8 @@ The task is to display all vehicles that have the smallest engine capacity in th
 ## Problem 35 : Retrieve Vehicles with largest Engine
 
 The task is to display all vehicles that have the largest engine capacity in the database.
+
+
+## Problem 36 : Retrieve Vehicles Below Average Engine Capacity
+
+The task is display all vehicles with engine capacity smaller than the average across all vehicles.
