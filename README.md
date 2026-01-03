@@ -63,6 +63,12 @@ The task is to display the number of vehicles for each make, ordered from highes
 
 The task is to list vehicle makes with at least 3,350 vehicles, ordered by total count in descending order.
 
+
 ## Problem 14 : Makes Starting with “F”
 
 The task is to retrieve vehicle makes whose names start with the letter “F”.
+
+
+## Problem 14 : Makes Ending with “D”
+
+The task is to retrieve vehicle makes whose names end with the letter “D”.
