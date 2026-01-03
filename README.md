@@ -104,4 +104,6 @@ The task is to display all vehicles whose number of doors is not specified.
 The task is to calculate all vehicles whose number of doors is not specified.
 
 
+## Problem 22 : Calculate Percentage of Two-Door Vehicles
 
+The task is to calculate the percentage of vehicles that have two doors out of the total number of vehicles.
