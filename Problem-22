@@ -1,0 +1,1 @@
+select (cast( (select count(*) from VehiculeDetails where NumDoors = 2) as float)) / (cast( (select count(*) from VehiculeDetails) as float)) as PercOf2NumDoors 
