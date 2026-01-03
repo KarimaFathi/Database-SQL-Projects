@@ -82,3 +82,8 @@ The task is to retrieve distinct vehicle makes that use front-wheel drive (FWD).
 ## Problem 17 : Count Front-Wheel Drive Makes
 
 The task is to calculate the total number of distinct vehicle makes that use front-wheel drive (FWD).
+
+
+## Problem 18 : Calculate Vehicles by Make and Drive Type
+
+The task is to calculate the total number of vehicles for each make and drive type, ordered alphabetically by make and by vehicle count in descending order.
