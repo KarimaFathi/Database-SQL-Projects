@@ -87,3 +87,8 @@ The task is to calculate the total number of distinct vehicle makes that use fro
 ## Problem 18 : Calculate Vehicles by Make and Drive Type
 
 The task is to calculate the total number of vehicles for each make and drive type, ordered alphabetically by make and by vehicle count in descending order.
+
+
+## Problem 19 : Filter Vehicles Exceeding a Specific Count
+
+Display vehicle makes and drive types with more than 800 vehicles, ordered alphabetically by make and by total count in descending order.
