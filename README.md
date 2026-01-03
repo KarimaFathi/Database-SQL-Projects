@@ -156,3 +156,8 @@ The task is to calculate each vehicle’s age based on the current year and disp
 ## Problem 32 : Filter Vehicles by Age Range
 
 The task is to retrieve vehicles whose age falls between 15 and 25 years.
+
+
+## Problem 33 : Calculate Engine Capacity Statistics
+
+The task is to calculate the minimum, maximum, and average engine capacity across all vehicles.
