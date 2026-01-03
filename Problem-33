@@ -1,0 +1,1 @@
+select min(Engine_CC) as minEngineCC, max(Engine_CC) as maxEngineCC, avg(Engine_CC) as avgEngineCC from VehiculeDetails;
