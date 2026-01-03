@@ -1,0 +1,9 @@
+ Select Vehicule_Display_Name, NumDoors, DoorDescription =
+ case 
+ when numDoors = 2 then 'two doors'
+ when numDoors = 3 then 'three doors'
+ when numDoors = 4 then 'four doors'
+ when numDoors = 5 then 'five doors'
+ Else 'Not set'
+ END 
+ from VehiculeDetails
