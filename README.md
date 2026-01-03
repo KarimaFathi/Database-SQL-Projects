@@ -138,5 +138,10 @@ The task is to display all vehicles that have a body type of Coupe, Hatchback, o
 The task is to display all vehicles with a Coupe, Hatchback, or Sedan body type manufactured in the years 2008, 2012, or 2022.
 
 
+## Problem 29 : Check Vehicle Existence for a Specific Year
+
+The task is to check whether at least one vehicle exists in the database for the year 2000.
+
+
 
 
