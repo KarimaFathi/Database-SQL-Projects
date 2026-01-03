@@ -108,6 +108,7 @@ The task is to calculate all vehicles whose number of doors is not specified.
 
 The task is to calculate the percentage of vehicles that have two doors out of the total number of vehicles.
 
+
 ## Problem 23 : Retrieve Makes with Sport Submodels
 
 The task is to Retrieve distinct vehicle makes and their IDs that have a submodel named “Sport”.
@@ -116,5 +117,11 @@ The task is to Retrieve distinct vehicle makes and their IDs that have a submode
 ## Problem 24 : Retrieve Two-Door Vehicles with Large Engines
 
 The task is to display all vehicles that have two doors and an engine size greater than 3 liters.
+
+## Problem 25 : Retrieve V12 Engine Vehicles
+
+The task is to display all vehicles with a V12 engine and 12 cylinders, including their make information.
+
+
 
 
