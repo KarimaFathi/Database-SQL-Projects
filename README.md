@@ -181,3 +181,8 @@ The task is display all vehicles with engine capacity smaller than the average a
 ## Problem 37 : Retrieve Vehicles Above Average Engine Capacity
 
 The task is display all vehicles with engine capacity bigger than the average across all vehicles.
+
+
+## Problem 38 : List Distinct Engine Capacities
+
+Retrieve all unique engine capacities from the vehicle database, ordered from highest to lowest.
