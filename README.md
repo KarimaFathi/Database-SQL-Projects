@@ -111,3 +111,10 @@ The task is to calculate the percentage of vehicles that have two doors out of t
 ## Problem 23 : Retrieve Makes with Sport Submodels
 
 The task is to Retrieve distinct vehicle makes and their IDs that have a submodel named “Sport”.
+
+
+## Problem 24 : Retrieve Two-Door Vehicles with Large Engines
+
+The task is to display all vehicles that have two doors and an engine size greater than 3 liters.
+
+
