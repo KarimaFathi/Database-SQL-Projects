@@ -77,3 +77,8 @@ The task is to retrieve vehicle makes whose names end with the letter “D”.
 ## Problem 16 : Retrieve Front-Wheel Drive Makes
 
 The task is to retrieve distinct vehicle makes that use front-wheel drive (FWD).
+
+
+## Problem 17 : Count Front-Wheel Drive Makes
+
+The task is to calculate the total number of distinct vehicle makes that use front-wheel drive (FWD).
