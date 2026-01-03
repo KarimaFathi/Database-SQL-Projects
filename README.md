@@ -143,5 +143,8 @@ The task is to display all vehicles with a Coupe, Hatchback, or Sedan body type 
 The task is to check whether at least one vehicle exists in the database for the year 2000.
 
 
+## Problem 30 : Describe Vehicles by Number of Doors
+
+The task is to display vehicle names and door counts, along with a descriptive label for the number of doors.
 
 
