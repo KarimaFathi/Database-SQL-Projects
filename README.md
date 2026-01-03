@@ -151,3 +151,8 @@ The task is to display vehicle names and door counts, along with a descriptive l
 ## Problem 31 : Calculate Vehicle Age
 
 The task is to calculate each vehicle’s age based on the current year and display the results ordered from oldest to newest.
+
+
+## Problem 32 : Filter Vehicles by Age Range
+
+The task is to retrieve vehicles whose age falls between 15 and 25 years.
