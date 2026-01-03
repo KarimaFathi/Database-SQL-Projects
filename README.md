@@ -161,3 +161,8 @@ The task is to retrieve vehicles whose age falls between 15 and 25 years.
 ## Problem 33 : Calculate Engine Capacity Statistics
 
 The task is to calculate the minimum, maximum, and average engine capacity across all vehicles.
+
+
+## Problem 34 : Retrieve Vehicles with Smallest Engine
+
+The task is to display all vehicles that have the smallest engine capacity in the database
