@@ -1,0 +1,4 @@
+SELECT Makes.MakeName,DriveTypes.DriveTypeName, count(*) as TotalVehicles
+FROM   Makes INNER JOIN
+             VehiculeDetails ON Makes.MakeID = VehiculeDetails.makeID INNER JOIN
+             DriveTypes ON VehiculeDetails.DriveTypeID = DriveTypes.DriveTypeID group by Makes.MakeName,DriveTypes.DriveTypeName order by MakeName asc, TotalVehicles desc;
