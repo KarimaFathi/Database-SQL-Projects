@@ -1,0 +1,1 @@
+select * from VehiculeDetails where NumDoors = 2 and Engine_liter_Display > 3; 
