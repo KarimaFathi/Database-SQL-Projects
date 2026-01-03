@@ -176,3 +176,8 @@ The task is to display all vehicles that have the largest engine capacity in the
 ## Problem 36 : Retrieve Vehicles Below Average Engine Capacity
 
 The task is display all vehicles with engine capacity smaller than the average across all vehicles.
+
+
+## Problem 37 : Retrieve Vehicles Above Average Engine Capacity
+
+The task is display all vehicles with engine capacity bigger than the average across all vehicles.
