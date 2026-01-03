@@ -1,0 +1,1 @@
+select * from VehiculeDetails where Engine_CC in (select distinct top 3 Engine_CC from VehiculeDetails order by Engine_CC desc);
