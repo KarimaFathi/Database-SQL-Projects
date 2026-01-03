@@ -1,0 +1,1 @@
+select Found = 1  where exists ( select top 1 * from VehiculeDetails where year =2000);
