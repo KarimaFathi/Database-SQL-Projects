@@ -1,0 +1,3 @@
+ SELECT distinct Makes.MakeName, VehiculeDetails.*
+FROM   Makes INNER JOIN
+             VehiculeDetails ON Makes.MakeID = VehiculeDetails.makeID where Engine like '%V12%' and Engine_Cylinders = 12;
