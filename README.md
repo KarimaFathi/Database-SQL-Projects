@@ -128,5 +128,8 @@ The task is to display all vehicles with a V12 engine and 12 cylinders, includin
 The task is to display all vehicles with a “Coupe” body type manufactured after the year 2020.
 
 
+## Problem 27 : Retrieve Vehicles by Selected Body Types
+
+Display all vehicles that have a body type of Coupe, Hatchback, or Sedan, including their body names.
 
 
