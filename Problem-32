@@ -1,0 +1,2 @@
+select * from
+(select Vehicule_Display_Name, year, VehicleAge = ( year(getdate()) - cast(year as int)) from VehiculeDetails) R where VehicleAge between 15 and 25;
