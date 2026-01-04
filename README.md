@@ -210,5 +210,9 @@ The task is to assign a tax value to each distinct engine capacity based on pred
 
 ## Problem 43 : Calculate Total Doors per Make
 
-Calculate the total number of doors for each vehicle make and display the results in descending order.
+The task is to calculate the total number of doors for each vehicle make and display the results in descending order.
 
+
+## Problem 44 : Calculate Total Doors for a Specific Make
+
+The task is to calculate the total number of doors for vehicles belonging to the specified make (Ford).
