@@ -206,3 +206,9 @@ The task is to display distinct vehicle makes that offer models with one of the 
 ## Problem 42 : Calculate Engine Tax by Capacity
 
 The task is to assign a tax value to each distinct engine capacity based on predefined engine size ranges.
+
+
+## Problem 43 : Calculate Total Doors per Make
+
+Calculate the total number of doors for each vehicle make and display the results in descending order.
+
