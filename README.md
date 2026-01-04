@@ -201,3 +201,8 @@ The task is to display all vehicles that have one of the three highest engine ca
 ## Problem 41 : Retrieve Makes with Top 3 Largest Engines
 
 The task is to display distinct vehicle makes that offer models with one of the three largest engine capacities, ordered alphabetically by make name.
+
+
+## Problem 42 : Calculate Engine Tax by Capacity
+
+The task is to assign a tax value to each distinct engine capacity based on predefined engine size ranges.
