@@ -1,0 +1,3 @@
+SELECT distinct sum(VehiculeDetails.NumDoors) as TotalDoorsNumber , Makes.MakeName
+FROM   Makes INNER JOIN
+             VehiculeDetails ON Makes.MakeID = VehiculeDetails.makeID  group by MakeName having MakeName = 'Ford';
