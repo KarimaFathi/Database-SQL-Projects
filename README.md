@@ -221,3 +221,8 @@ The task is to calculate the total number of doors for vehicles belonging to the
 ## Problem 45 : Count Models per Make
 
 The task is to calculate the number of models available for each vehicle make and order the results by model count in descending order.
+
+ 
+## Problem 46 :  Retrieve Top 3 Makes by Model Count
+
+The task is to display the three vehicle makes with the highest number of models, ordered by model count in descending order.
