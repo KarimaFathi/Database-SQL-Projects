@@ -1,0 +1,5 @@
+select max(totalModelsManufactured) as HighestManufacturedModels from(
+
+SELECT Makes.MakeName, count(*) as totalModelsManufactured 
+FROM   VehiculeDetails INNER JOIN
+             Makes ON VehiculeDetails.makeID = Makes.MakeID group by Makes.MakeName)R;
