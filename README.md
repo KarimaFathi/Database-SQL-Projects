@@ -226,3 +226,8 @@ The task is to calculate the number of models available for each vehicle make an
 ## Problem 46 :  Retrieve Top 3 Makes by Model Count
 
 The task is to display the three vehicle makes with the highest number of models, ordered by model count in descending order.
+
+
+## Problem 47 : Retrieve Highest Number of Manufactured Models
+
+The task is to determine the maximum number of models manufactured by a single make.
