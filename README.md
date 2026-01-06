@@ -216,3 +216,8 @@ The task is to calculate the total number of doors for each vehicle make and dis
 ## Problem 44 : Calculate Total Doors for a Specific Make
 
 The task is to calculate the total number of doors for vehicles belonging to the specified make (Ford).
+
+
+## Problem 45 : Count Models per Make
+
+The task is to calculate the number of models available for each vehicle make and order the results by model count in descending order.
