@@ -231,3 +231,8 @@ The task is to display the three vehicle makes with the highest number of models
 ## Problem 47 : Retrieve Highest Number of Manufactured Models
 
 The task is to determine the maximum number of models manufactured by a single make.
+
+
+## Problem 48 : Retrieve Make with Highest Production
+
+Identify the vehicle make that has the highest total number of manufactured models.
