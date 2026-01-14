@@ -235,11 +235,14 @@ The task is to determine the maximum number of models manufactured by a single m
 
 ## Problem 48 : Retrieve Make with Highest Production
 
-Identify the vehicle make that has the highest total number of manufactured models.
+the task is to identify the vehicle make that has the highest total number of manufactured models.
 
 
 ## Problem 49 : Retrieve Make with Lowest Production
 
-Identify the vehicle make that has the lowest total number of manufactured models.
+the task is to identify the vehicle make that has the lowest total number of manufactured models.
 
 
+## Problem 50 : Retrieve Fuel Types in Random Order
+
+the task is to display all fuel types in a randomized order.
