@@ -1,0 +1,2 @@
+SELECT Makes.MakeName, count(*) as totalManufactured FROM   VehiculeDetails INNER JOIN
+             Makes ON VehiculeDetails.makeID = Makes.MakeID  group by MakeName  having  count(*) = (select top 1  count(*) as total from VehiculeDetails group by makeID order by total desc);
